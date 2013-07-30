@@ -1,8 +1,13 @@
+
+make something strange
+where would you like to go?
+OOVersion2
+
 gitexplore
-==========
-Version3
-gitexplore
-This is change in master.
-Hello
-Let'so reconsile the conflic
-Learn how to fix conflic
+
+What would you like to eat?
+I have no idea.
+
+
+Thanks a lot!
+
