@@ -3,5 +3,6 @@ gitexplore
 Version3
 gitexplore
 This is change in master.
-
-Let's reconsile the conflic
+Hello
+Let'so reconsile the conflic
+Learn how to fix conflic
